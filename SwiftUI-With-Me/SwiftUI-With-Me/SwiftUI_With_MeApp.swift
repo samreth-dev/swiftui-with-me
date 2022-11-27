@@ -11,7 +11,9 @@ import SwiftUI
 struct SwiftUI_With_MeApp: App {
     var body: some Scene {
         WindowGroup {
-            CircleButtons()
+            NavigationView {
+                TopCornerItems()
+            }
         }
     }
 }

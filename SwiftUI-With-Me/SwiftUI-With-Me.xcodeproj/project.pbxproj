@@ -11,6 +11,8 @@
 		531A6C60293122C200ACD31A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 531A6C5F293122C200ACD31A /* Assets.xcassets */; };
 		531A6C63293122C200ACD31A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 531A6C62293122C200ACD31A /* Preview Assets.xcassets */; };
 		531A6C6A293122ED00ACD31A /* CircleButtons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 531A6C69293122ED00ACD31A /* CircleButtons.swift */; };
+		531A6C6C29312E6400ACD31A /* List+iOS15.swift in Sources */ = {isa = PBXBuildFile; fileRef = 531A6C6B29312E6400ACD31A /* List+iOS15.swift */; };
+		53DBDD332933187B00617576 /* TopCornerItems.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53DBDD322933187B00617576 /* TopCornerItems.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		531A6C5F293122C200ACD31A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		531A6C62293122C200ACD31A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		531A6C69293122ED00ACD31A /* CircleButtons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleButtons.swift; sourceTree = "<group>"; };
+		531A6C6B29312E6400ACD31A /* List+iOS15.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "List+iOS15.swift"; sourceTree = "<group>"; };
+		53DBDD322933187B00617576 /* TopCornerItems.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopCornerItems.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				531A6C5F293122C200ACD31A /* Assets.xcassets */,
 				531A6C61293122C200ACD31A /* Preview Content */,
 				531A6C69293122ED00ACD31A /* CircleButtons.swift */,
+				531A6C6B29312E6400ACD31A /* List+iOS15.swift */,
+				53DBDD322933187B00617576 /* TopCornerItems.swift */,
 			);
 			path = "SwiftUI-With-Me";
 			sourceTree = "<group>";
@@ -138,7 +144,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				531A6C5C293122C100ACD31A /* SwiftUI_With_MeApp.swift in Sources */,
+				53DBDD332933187B00617576 /* TopCornerItems.swift in Sources */,
 				531A6C6A293122ED00ACD31A /* CircleButtons.swift in Sources */,
+				531A6C6C29312E6400ACD31A /* List+iOS15.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
