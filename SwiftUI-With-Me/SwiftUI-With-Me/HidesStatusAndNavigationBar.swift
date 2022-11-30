@@ -12,8 +12,6 @@ struct HidesStatusAndNavigationBar: View {
         ZStack {
             Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
         }
-        .statusBarHidden(true)
-        .toolbar(.hidden, for: .navigationBar)
     }
 }
 

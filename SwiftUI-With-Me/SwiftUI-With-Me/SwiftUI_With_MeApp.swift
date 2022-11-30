@@ -9,10 +9,11 @@ import SwiftUI
 
 @main
 struct SwiftUI_With_MeApp: App {
+    @State var toggle = true
     var body: some Scene {
         WindowGroup {
             NavigationView {
-                TopCornerItems()
+                NavigationLink("Demo", destination: CustomNavButton(), isActive: $toggle)
             }
         }
     }
