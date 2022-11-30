@@ -12,6 +12,7 @@
 		531A6C63293122C200ACD31A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 531A6C62293122C200ACD31A /* Preview Assets.xcassets */; };
 		531A6C6A293122ED00ACD31A /* CircleButtons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 531A6C69293122ED00ACD31A /* CircleButtons.swift */; };
 		531A6C6C29312E6400ACD31A /* List+iOS15.swift in Sources */ = {isa = PBXBuildFile; fileRef = 531A6C6B29312E6400ACD31A /* List+iOS15.swift */; };
+		53B318A62937151500FB16EB /* HidesStatusAndNavigationBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53B318A52937151500FB16EB /* HidesStatusAndNavigationBar.swift */; };
 		53DBDD332933187B00617576 /* TopCornerItems.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53DBDD322933187B00617576 /* TopCornerItems.swift */; };
 		53DBDD3529331A6500617576 /* SetsBackgroundColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53DBDD3429331A6500617576 /* SetsBackgroundColor.swift */; };
 		53DBDD3729331B6800617576 /* SetsGradientbackgroundColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53DBDD3629331B6800617576 /* SetsGradientbackgroundColor.swift */; };
@@ -24,6 +25,7 @@
 		531A6C62293122C200ACD31A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		531A6C69293122ED00ACD31A /* CircleButtons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleButtons.swift; sourceTree = "<group>"; };
 		531A6C6B29312E6400ACD31A /* List+iOS15.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "List+iOS15.swift"; sourceTree = "<group>"; };
+		53B318A52937151500FB16EB /* HidesStatusAndNavigationBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HidesStatusAndNavigationBar.swift; sourceTree = "<group>"; };
 		53DBDD322933187B00617576 /* TopCornerItems.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopCornerItems.swift; sourceTree = "<group>"; };
 		53DBDD3429331A6500617576 /* SetsBackgroundColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetsBackgroundColor.swift; sourceTree = "<group>"; };
 		53DBDD3629331B6800617576 /* SetsGradientbackgroundColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetsGradientbackgroundColor.swift; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 				53DBDD322933187B00617576 /* TopCornerItems.swift */,
 				53DBDD3429331A6500617576 /* SetsBackgroundColor.swift */,
 				53DBDD3629331B6800617576 /* SetsGradientbackgroundColor.swift */,
+				53B318A52937151500FB16EB /* HidesStatusAndNavigationBar.swift */,
 			);
 			path = "SwiftUI-With-Me";
 			sourceTree = "<group>";
@@ -153,6 +156,7 @@
 				531A6C5C293122C100ACD31A /* SwiftUI_With_MeApp.swift in Sources */,
 				53DBDD332933187B00617576 /* TopCornerItems.swift in Sources */,
 				531A6C6A293122ED00ACD31A /* CircleButtons.swift in Sources */,
+				53B318A62937151500FB16EB /* HidesStatusAndNavigationBar.swift in Sources */,
 				531A6C6C29312E6400ACD31A /* List+iOS15.swift in Sources */,
 				53DBDD3529331A6500617576 /* SetsBackgroundColor.swift in Sources */,
 			);
